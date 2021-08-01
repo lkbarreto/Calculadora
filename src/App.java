@@ -13,7 +13,7 @@ public class App extends Application {
         Parent root = fxmlLoader.load();
         Scene scene = new Scene(root);
 
-        primaryStage.setTitle("Calculadora");
+        primaryStage.setTitle("Calculadora Java");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
