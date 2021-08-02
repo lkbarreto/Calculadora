@@ -4,7 +4,7 @@ import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 
-public class calculatorController {
+public class CalculatorController  {
 
     private int total = 0;
     private String operador = null;
